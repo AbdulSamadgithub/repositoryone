@@ -1,0 +1,6 @@
+@import "modules/moduleone";
+.class {
+  @extend;
+  color: $blue;
+  background-color: red;
+}

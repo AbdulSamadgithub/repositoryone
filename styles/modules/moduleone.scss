@@ -1,0 +1,12 @@
+$bgcolor: grey;
+$red: red;
+$blue: blue;
+$black: black;
+$width: 100px;
+$type: "solid";
+$borderwidth: 3px;
+$color: black;
+
+.classone {
+  border: $width $type $color;
+}
